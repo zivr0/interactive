@@ -4447,7 +4447,7 @@ p.nominalBounds = null;
 		this.button_3.addEventListener("click", atarzhuyot.bind(this));
 		
 		function atarzhuyot() {
-			window.open("https://www.google.co.il/#q=%D7%90%D7%AA%D7%A8+%D7%9E%D7%9E%D7%A9+%D7%98%D7%95%D7%91+%D7%9C%D7%96%D7%9B%D7%95%D7%99%D7%95%D7%AA+%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D", "_blank");
+			window.open("https://digitalcopyright1.github.io/firstwebsite/index.html", "_blank");
 		}
 		this.stop();
 	}
